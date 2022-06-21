@@ -13,7 +13,7 @@
 #headerNavbar>div{
     width:60px;
     width:30%;
-    border:1px solid red;
+    /* border:1px solid red; */
     display:flex;
 
 
@@ -75,7 +75,7 @@ h1+p{
     color:#4B4B4B;
     margin:auto;
     margin-top:50px;
-    font-size:25px;
+    font-size:22px;
     padding-left:50px;
     font-family: "Merriweather",serif;
     font-weight:lighter;
@@ -514,4 +514,24 @@ height:83.19px;
 .second>.fix{
 width:450.15px;
 height:116px
+}
+
+.small-P > p {
+    font-size: 22px;
+}
+
+select {
+    font-size: 22px;
+    margin: 12px 12px;
+    font-weight: bold;
+    border: none;
+    color:#4B4B4B;
+
+}
+
+.nav-btn > button {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    
 }
