@@ -26,7 +26,7 @@
 
 ## Landing Page
 <br>
-<img src="./nikhil.jpg">
+<img src="./partners.jpg">
 <br>
 <p>The above picture is of the landing page that is created by <b>Nikhil Mehara</b> which is almost similar to the landing page of CoSchedule. He used HTML and CSS for styling the website</p>
 
