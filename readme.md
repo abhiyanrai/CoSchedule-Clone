@@ -1,5 +1,6 @@
 # CoSchedule clone
-<p>We have been learning Full Stack-Web Development at Masai School. I and my team have made this project during the construct week of unit-2 at Masai school. Here is the link of our app is live on github [CLICK HERE](https://bhupesh1114.github.io/Unit-2-group-project-masai/)
+<p>CoSchedule is an all-in-one platform for planning, organizing, and executing all things content marketing. It's easy to use drag-and-drop calendar interface makes it easy to collaborate and schedule all your projects in one place.
+CLICK HERE TO VISIT THE WEBSITE: - https://shimmering-mandazi-2f003a.netlify.app/
 </p>
 
 ## Tech Stack
@@ -11,91 +12,76 @@
 </ul>
 <br>
 
-<img src="./navbar.jpg">
+<img src="./CoSchedule-Clone/navbar.jpg">
 <br>
 
 ## Navbar
-<p>The above picture is of the Navbar that is created by <b>Bhupesh kumawat</b> which is almost similar to the navbar of CoSchedule. He used HTML and CSS for styling the navbar. This navbar can be used for navigating on different pages of this website.</p>
+<p>The above picture is of the Navbar which is almost similar to the navbar of CoSchedule. I used HTML and CSS for styling the navbar. This navbar can be used for navigating on different pages of this website.</p>
 
 <br>
-<img src="./case-studies.jpg">
+<img src="./CoSchedule-Clone/case-studies.jpg">
 <br>
 
-<p>Case Studies page was also created by <b>Bhupesh kumawat</b> consists of all the details of the Marketing and also has the functionality of filtering popular Marketing sites.</p>
+<p>Case Studies page also consists of all the details of the Marketing and also has the functionality of filtering popular Marketing sites.</p>
 
 
 ## Landing Page
 <br>
-<img src="./parterns.jpg">
+<img src="./CoSchedule-Clone/parterns.jpg">
 <br>
-<p>The above picture is of the landing page that is created by <b>Nikhil Mehara</b> which is almost similar to the landing page of CoSchedule. He used HTML and CSS for styling the website</p>
+<p>The above picture is of the landing page which is almost similar to the landing page of CoSchedule. I used HTML and CSS for styling the website</p>
 
 ## Calendar Page
 <br>
-<img src="./calendar.jpg">
+<img src="./CoSchedule-Clone/calendar.jpg">
 <br>
 
 
-<p>The above Calendar page was designed by <b>Sumit Beniwal</b> and he also created the footer of the website. He managed to work on the HTML, CSS, and javascript related to the page.</p>
+<p>The above page is Calender page. Here I managed to work on the HTML, CSS, and javascript related to the page.</p>
 
 ## Signup Page
 <br>
-<img src="./signup.jpg">
+<img src="./CoSchedule-Clone/signup.jpg">
 <br>
 
 
 
-<p>The above picture is of the Signup page that is created by <b>Sai Kiran Arishanapalli</b> which is almost similar to the Signup page of CoSchedule. I am involved in all the HTML, CSS, javascript, JSON, and DOM-related parts of the page and validation of the data given by the user and store the data in the local storage. After filling in all the inputs Click on getting Started Now this page will redirect to the Sign-in Page as shown below picture.</p>
+<p>The above picture is of the Signup page which is almost similar to the Signup page of CoSchedule. I am involved in all the HTML, CSS, javascript, JSON, and DOM-related parts of the page and validation of the data given by the user and store the data in the local storage. After filling in all the inputs Click on getting Started Now this page will redirect to the Sign-in Page as shown below picture.</p>
 
 ## CoSchedule Blog Page
 <br>
-<img src="./blog.jpg">
+<img src="./CoSchedule-Clone/blog.jpg">
 <br>
 
 
 
-<p>And I also build the Coschedule Blog Page, this page contains blogs that are useful for marketing your company website. On the homepage, you can see all the categories of blogs. If you want to promote your website on any social media platform, please click on social media in categories and follow the related blogs on how to promote effectively. The below picture shows social media category blogs.</p>
+<p>This page contains blogs that are useful for marketing your company website. On the homepage, you can see all the categories of blogs. If you want to promote your website on any social media platform, please click on social media in categories and follow the related blogs on how to promote effectively. The below picture shows social media category blogs.</p>
 
 ## Pricing Page
 <br>
-<img src="./pricing.jpg">
+<img src="./CoSchedule-Clone/pricing.jpg">
 <br>
 
 
 
-<p>The Pricing Page was designed by <b>Prathyusha</b> she managed to work on the HTML and CSS related to the page.</p>
+<p>The Pricing Page is on the HTML and CSS.</p>
 
 ## Marketing Suite Page
 <br>
-<img src="./suite.jpg">
+<img src="./CoSchedule-Clone/suite.jpg">
 <br>
 
 
 
-<p>This page was created by <b>Abhishek Rai</b> he managed to work on the HTML, CSS, and javascript related to the page.</p>
+<p>This page is on the HTML, CSS, and javascript.</p>
 
 
 
-## How do we Move Forward?
+## How do I Move Forward?
 
-<p>So, we started on Monday and the deadline is of Sunday evening. we decided to make our own deadline for the project. so we decided to complete it by Friday evening. so we decided to take one page each. and we managed the project by Friday Evening. on Saturday we all push our code to git and merged all the pages with each other.</p>
+<p>So, I started on Monday and I take a deadline i.e of Sunday. Finally, I completed on my given time.</p>
 
 
-## How did we complete the project?
-<p>So, we started on Monday evening and the deadline was off Sunday evening. So we divided the work among ourselves, someone was working on the navbar, one on the signup page, me on the footer, and others on their respective pages. One day before the deadline, we merged all the code and were successful in cloning the website.</p>
+<p>So, in all this has been a great and wonderful experience for me.</p>
 
-<p>We learned many new things about building websites, we solved problems that came while we were working on the website and merged our work on Github because it was a totally new platform for all of us, but once we started working, gradually we got a good hang of Github.</p>
-
-<p>So, in all this has been a great and wonderful experience for me and the team members</p>
-
-## Contributors
-
-<ul>
-<li><b>Abhishek Rai</b></li>
-<li><b>Nikhil Mehara</b></li>
-<li><b>Sumit Beniwal</b></li>
-<li><b>Sai Kiran Arishanapalli</b> </li>
-<li><b>Prathyusha</b></li>
-<li><b>Bhupesh Kumawat</b></li>
-</ul>
 
