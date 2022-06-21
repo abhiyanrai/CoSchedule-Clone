@@ -27,7 +27,7 @@ CLICK HERE TO VISIT THE WEBSITE: - https://shimmering-mandazi-2f003a.netlify.app
 
 ## Landing Page
 <br>
-<img src="./CoSchedule-Clone/parterns.jpg">
+<img src="./CoSchedule-Clone/partners.jpg">
 <br>
 <p>The above picture is of the landing page which is almost similar to the landing page of CoSchedule. I used HTML and CSS for styling the website</p>
 
